@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "bep20-generator": "^1.0.2"
+  }
+}
